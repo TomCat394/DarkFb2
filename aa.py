@@ -53,9 +53,9 @@ def login():
         os.system('clear')
         print ("""     __  __      ____                  _
     |  \/  |_ __| __ )  __ _  ___ ___ | |_                     | |\/| | __|  _ \ / _` |/ __/ _ \| __|                     | |  | | | _| |_) | (_| | (_| (_) | |_                     |_|  |_|_|(_)____/ \__,_|\___\___/ \__|                ---------------------------------------------                             [ TOOLS INFO ]
-Author  : Mr.Bacot
-Support : Mr.Lonte
-Name    : PePek Anjink
+Author  : Mr.Van. 
+no wa   : 0896xxxxxxx7
+Name    : ivan Firmansyah
 Version : v1.9
 ---------------------------------------------""" )
         print tutup + '\n[' + putih + '$' + tutup + '] LOGIN ACCOUNT FACEBOOK ' + tutup + '[' + putih + '$' + tutup + ']' + tutup
@@ -117,9 +117,9 @@ def menu():
     os.system('clear')
     print ("""     __  __      ____                  _
     |  \/  |_ __| __ )  __ _  ___ ___ | |_                     | |\/| | __|  _ \ / _` |/ __/ _ \| __|                     | |  | | | _| |_) | (_| | (_| (_) | |_                     |_|  |_|_|(_)____/ \__,_|\___\___/ \__|                ---------------------------------------------                             [ TOOLS INFO ]
-Author  : Mr.Bacot
-Support : Mr.Lonte
-Name    : PePek Anjink
+Author  : Mr.Van
+no wa   : 0896xxxxxxx7
+Name    : ivan Firmansyah
 Version : v1.9
 ---------------------------------------------""" )
     print
